@@ -11,6 +11,7 @@
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white)
+![TryHackMe](https://tryhackme-badges.vercel.app/api/user/MaxouilleLaBidouille)
 
 **Network Security & Infrastructure | Junior Pentester | OSINT Enthusiast**
 
@@ -51,8 +52,3 @@ Driven by network architecture and offensive security, I focus on deep-diving in
 
 ### 📫 Contact Me
 📧 **Email:** [mr.raccoon.overflow@gmail.com](mailto:mr.raccoon.overflow@gmail.com)
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
