@@ -11,7 +11,6 @@
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white)
-![TryHackMe](https://tryhackme-badges.vercel.app/api/user/MaxouilleLaBidouille)
 
 **Network Security & Infrastructure | Junior Pentester | OSINT Enthusiast**
 
@@ -30,6 +29,7 @@ Driven by network architecture and offensive security, I focus on deep-diving in
 * **Networking:** Cisco CCNA 1 (Introduction to Networks)
 * **Cybersecurity:** TryHackMe Certifications (Paths: Pre-Security, Jr Pentester)
 * **Core Competencies:** Switch/Router Configuration, VLAN & VTP Segmentation, Static & Dynamic Routing, Redundancy & Aggregation (LACP, HSRP), STP, NAT/PAT, and Infrastructure Services (DHCP, Port Security).
+* ![TryHackMe](https://tryhackme-badges.vercel.app/api/user/MaxouilleLaBidouille)
 ---
 
 ### 🛠️ Technical Toolbox
