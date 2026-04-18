@@ -36,6 +36,7 @@ Driven by network architecture and offensive security, I focus on deep-diving in
 
 | Category | Tools & Technologies |
 | :--- | :--- |
+| :--- | :--- |
 | **Networking** | Cisco IOS, Wireshark, Packet Tracer, GNS3, SSH Tunneling |
 | **Offensive Security** | Nmap, Metasploit, Burp Suite, Reverse Shell Exploits |
 | **OSINT / SOC** | Google Dorks, Sherlock, Maltego, Log Analysis & Triage |
