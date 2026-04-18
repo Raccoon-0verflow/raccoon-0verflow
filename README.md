@@ -25,9 +25,9 @@ Driven by network architecture and offensive security, I focus on deep-diving in
 | **Networking** | Cisco IOS, Wireshark, Packet Tracer, GNS3, SSH Tunneling |
 | **Offensive Security** | Nmap, Metasploit, Burp Suite, Reverse Shell Exploits |
 | **OSINT / SOC** | Google Dorks, Sherlock, Maltego, Log Analysis & Triage |
-| **Systems**| Kali Linux, Parrot Security (learning), ProxMox, VMware, AWS |
-| **Scripting**| Bash, Python, C, C++, Arduino for on-board system, SQL, UML|
-| **Web Development**| HTML, CSS, JS, Java (learning), nodeJS (learing) |
+| **Systems** | Kali Linux, Parrot Security (learning), ProxMox, VMware, AWS |
+| **Scripting** | Bash, Python, C, C++, Arduino (Embedded), SQL, UML |
+| **Web Development** | HTML, CSS, JS, Java (learning), nodeJS (learning) |
 
 ---
 
@@ -38,3 +38,8 @@ Driven by network architecture and offensive security, I focus on deep-diving in
 
 ### 📫 Contact Me
 📧 **Email:** [mr.raccoon.overflow@gmail.com](mailto:mr.raccoon.overflow@gmail.com)
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
