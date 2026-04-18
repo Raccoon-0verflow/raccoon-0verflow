@@ -29,7 +29,7 @@ Driven by network architecture and offensive security, I focus on deep-diving in
 * **Networking:** Cisco CCNA 1 (Introduction to Networks)
 * **Cybersecurity:** TryHackMe Certifications (Paths: Pre-Security, Jr Pentester)
 * **Core Competencies:** Switch/Router Configuration, VLAN & VTP Segmentation, Static & Dynamic Routing, Redundancy & Aggregation (LACP, HSRP), STP, NAT/PAT, and Infrastructure Services (DHCP, Port Security).
-* <a href="https://tryhackme.com/p/MaxouilleLaBidouille" target="_blank"><img src="https://tryhackme-badges.vercel.app/api/user/MaxouilleLaBidouille?dynamic=true" alt="TryHackMe Badge"></a>
+* [![TryHackMe](https://img.shields.io/badge/TryHackMe-MaxouilleLaBidouille-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/MaxouilleLaBidouille)
 ---
 
 ### 🛠️ Technical Toolbox
