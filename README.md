@@ -40,7 +40,7 @@ Driven by network architecture and offensive security, I focus on deep-diving in
 | **Networking** | Cisco IOS, Wireshark, Packet Tracer, GNS3, SSH Tunneling |
 | **Offensive Security** | Nmap, Metasploit, Burp Suite, Reverse Shell Exploits |
 | **OSINT / SOC** | Google Dorks, Sherlock, Maltego, Log Analysis & Triage |
-| **Systems** | Kali Linux, Parrot Security (learning), ProxMox, VMware, AWS |
+| **Systems** | Kali Linux, Parrot Security (learning), ProxMox, Virtual Box, AWS |
 | **Scripting** | Bash, Python, C, C++, Arduino (Embedded), SQL, UML |
 | **Web Development** | HTML, CSS, JS, Java (learning), nodeJS (learning) |
 
